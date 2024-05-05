@@ -1,0 +1,17 @@
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\bin\Debug\net6.0-windows\Salary Calculator.exe
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\bin\Debug\net6.0-windows\Salary Calculator.deps.json
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\bin\Debug\net6.0-windows\Salary Calculator.runtimeconfig.json
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\bin\Debug\net6.0-windows\Salary Calculator.dll
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\bin\Debug\net6.0-windows\Salary Calculator.pdb
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.vbproj.AssemblyReference.cache
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary_Calculator.Form1.resources
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.vbproj.GenerateResource.cache
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.AssemblyInfoInputs.cache
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.AssemblyInfo.vb
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.dll
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\refint\Salary Calculator.dll
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.pdb
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\Salary Calculator.genruntimeconfig.cache
+C:\Users\ENVY\Downloads\Event programming\Salary Calculator\obj\Debug\net6.0-windows\ref\Salary Calculator.dll
